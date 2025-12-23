@@ -11,7 +11,7 @@ Yoga practice is growing rapidly in the Philippines, yet access to qualified ins
 
 This project presents an efficient yoga pose classification system using MediaPipe pose estimation and a lightweight Multi-Layer Perceptron (MLP) classifier. Instead of processing raw pixel data, the system extracts **10 geometric features** (arm angles, torso orientation, body spread) from detected body landmarks, significantly reducing computational requirements while maintaining high accuracy.
 
-The model was trained on **920 images** across **five fundamental yoga poses** (Downward Dog, Goddess, Plank, Tree, Warrior II) and achieved **92% validation accuracy** and **89% test accuracy**. The feature-based approach enables **real-time inference (~0.2 seconds per image)**, making it suitable for mobile deployment.
+The model was trained on **920 images** across **five fundamental yoga poses** (Downward Dog, Goddess, Plank, Tree, Warrior II) and achieved **76.9% validation accuracy** and **80% test accuracy**. The feature-based approach enables **real-time inference (~0.2 seconds per image)**, making it suitable for mobile deployment.
 
 This work demonstrates that effective pose classification can be achieved through **intelligent feature engineering**, avoiding computationally expensive end-to-end deep learning approaches.
 
