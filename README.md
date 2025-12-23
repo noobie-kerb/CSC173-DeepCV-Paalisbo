@@ -1,4 +1,3 @@
----
 
 # [Project Title:Automated Yoga Pose Classification Using Deep Learning and MediaPipe Pose Estimation]
 **CSC173 Intelligent Systems Final Project**  
@@ -16,7 +15,6 @@ The model was trained on **920 images** across **five fundamental yoga poses** (
 
 This work demonstrates that effective pose classification can be achieved through **intelligent feature engineering**, avoiding computationally expensive end-to-end deep learning approaches.
 
----
 
 ## Table of Contents
 
