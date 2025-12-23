@@ -165,6 +165,9 @@ best_acc = trainer.train(num_epochs=30)
 
 *Figure 2: Goddess and Warrior II poses show occasional confusion due to similar wide-stance structures.*
 
+### Demo
+[Video: [CSC173_Paalisbo_Final.mp4](demo/CSC173_Paalisbo_Final.mkv)]
+
 ---
 
 ## Discussion
