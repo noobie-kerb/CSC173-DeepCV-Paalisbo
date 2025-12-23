@@ -1,19 +1,11 @@
 ---
 
-# Automated Yoga Pose Classification Using Deep Learning and MediaPipe Pose Estimation
-
-**CSC173 Intelligent Systems – Final Project**
-*Mindanao State University – Iligan Institute of Technology*
-
-**Student:** Kervin Lemuel D. Paalisbo (2022-0076)
-**Semester:** AY 2024–2025, Semester 2
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)](https://pytorch.org)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-green)](https://google.github.io/mediapipe/)
-
----
-
+# [Project Title:Automated Yoga Pose Classification Using Deep Learning and MediaPipe Pose Estimation]
+**CSC173 Intelligent Systems Final Project**  
+*Mindanao State University - Iligan Institute of Technology*  
+**Student:** [Kervin Lemuel D. Paalisbo], [2022-0076]  
+**Semester:** [AY 2025-2026 Sem 1]  
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org) [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)](https://pytorch.org)
 ## Abstract
 
 Yoga practice is growing rapidly in the Philippines, yet access to qualified instructors remains limited, particularly in rural areas of Mindanao. Many practitioners struggle to identify poses correctly, leading to ineffective practice or potential injuries.
@@ -52,10 +44,7 @@ Most online tutorials lack real-time feedback, leaving practitioners uncertain a
 
 * **Objective 1:** Achieve >90% validation accuracy and >88% test accuracy for five yoga poses
 * **Objective 2:** Develop a MediaPipe-based feature extraction pipeline reducing training time from hours to minutes
-* **Objective 3:** Enable real-time inference (<0.3 seconds per image) suitable for mobile deployment
-* **Objective 4:** Perform comprehensive evaluation using confusion matrix analysis
-
-![Yoga Pose Examples](images/yoga_poses_overview.png)
+* **Objective 3:** Perform comprehensive evaluation using confusion matrix analysis
 
 ---
 
@@ -94,8 +83,6 @@ Most online tutorials lack real-time feedback, leaving practitioners uncertain a
 ---
 
 ### Architecture
-
-![Model Architecture](images/architecture_diagram.png)
 
 **Pipeline Overview:**
 
